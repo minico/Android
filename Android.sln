@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android", "Android.vcxproj", "{F8C347B9-7C69-FC83-6560-3DE1B65678C4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android", "Android.vcxproj", "{82541029-B845-E02D-3FB5-20B2484990A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F8C347B9-7C69-FC83-6560-3DE1B65678C4}.Debug|Win32.ActiveCfg = Debug|Win32
-		{F8C347B9-7C69-FC83-6560-3DE1B65678C4}.Debug|Win32.Build.0 = Debug|Win32
-		{F8C347B9-7C69-FC83-6560-3DE1B65678C4}.Release|Win32.ActiveCfg = Release|Win32
-		{F8C347B9-7C69-FC83-6560-3DE1B65678C4}.Release|Win32.Build.0 = Release|Win32
+		{82541029-B845-E02D-3FB5-20B2484990A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82541029-B845-E02D-3FB5-20B2484990A5}.Debug|Win32.Build.0 = Debug|Win32
+		{82541029-B845-E02D-3FB5-20B2484990A5}.Release|Win32.ActiveCfg = Release|Win32
+		{82541029-B845-E02D-3FB5-20B2484990A5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
