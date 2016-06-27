@@ -13379,5 +13379,152 @@
     <ClInclude Include="system\media\radio\include\system\radio_metadata.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="system\core\include\utils\AndroidThreads.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\ashmem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Atomic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\BasicHashtable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\BitSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\BlobCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\ByteOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\CallStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Compat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Condition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Endian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Errors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\FileMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Flattenable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Functor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\JenkinsHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\KeyedVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\LinearTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Looper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\LruCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Mutex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\NativeHandle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Printer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\ProcessCallStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\PropertyMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\RefBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\RWLock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\SharedBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\SortedVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\StopWatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\String8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\String16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\StrongPointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\SystemClock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Thread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\ThreadDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\threads.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Timers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Tokenizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Trace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\TypeHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Unicode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system\core\include\utils\VectorImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
